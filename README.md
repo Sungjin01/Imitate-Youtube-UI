@@ -1,2 +1,2 @@
 # youtube-clone-coding
-Clone html, css of Youtube
+Imitate Youtube's html and css
